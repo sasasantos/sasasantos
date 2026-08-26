@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B1F33,75:075985,100:0284C7&text=Hi,%20I'm%20Sabrina&fontSize=48&fontColor=E0F2FE&fontAlignY=36&desc=Software%20Developer%20|%20Systems%20Student&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B1F33,75:075985,100:0284C7&text=Olá,%20sou%20a%20Sabrina&fontSize=46&fontColor=E0F2FE&fontAlignY=36&desc=Desenvolvedora%20de%20Sistemas%20|%20Estudante%20de%20Tecnologia&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header Banner"/>
 
 <br>
 
@@ -16,28 +16,28 @@
 
 ---
 
-### About Me
+### 🚀 Sobre Mim
 
 Estudante de **Desenvolvimento de Sistemas** focada em construir soluções digitais eficientes, funcionais e bem arquitetadas. Minha trajetória abrange o desenvolvimento de aplicações Web, lógica Backend, modelagem de Banco de Dados e exploração de sistemas embarcados com **ESP32 e IoT**.
 
-#### What Drives Me
-Sou movida pelo aprendizado prático e pela resolução de problemas por meio do código. Acredito na criação de sistemas limpos, na constante evolução técnica e na integração inteligente entre software e hardware.
+#### 💙 O Que Me Move
+Sou movida pelo aprendizado prático e pela resolução de problemas através do código. Acredito na criação de sistemas limpos, na constante evolução técnica e na integração inteligente entre software e hardware.
 
 ---
 
-### Featured Projects
+### 📌 Projetos em Destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 📚 Lumos Livraria Platform
-**Sistema Web de Gerenciamento**
+#### 📚 Lumos Livraria
+**Plataforma Web de Gerenciamento**
 
-Plataforma desenvolvida para o controle administrativo de acervos, autenticação de usuários e gerenciamento de vendas.
+Plataforma completa desenvolvida para o controle administrativo de acervos, autenticação de usuários e gerenciamento de vendas.
 
 **Destaques:**
-* Arquitetura web intuitiva e responsiva.
+* Interface web intuitiva e responsiva.
 * Autenticação e gestão de sessões de usuários.
 * Mapeamento objeto-relacional com SQLAlchemy.
 
@@ -48,20 +48,20 @@ Plataforma desenvolvida para o controle administrativo de acervos, autenticaçã
 <br>
 
 <a href="https://github.com/sasasantos/lumos_livraria" target="_blank">
-  <img src="https://img.shields.io/badge/Repository-0284C7?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ver_Repositório-0284C7?style=flat-square&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://lumos-livraria.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/Live_Demo-00D9FF?style=flat-square&logo=render&logoColor=020617"/>
+  <img src="https://img.shields.io/badge/Testar_Online-00D9FF?style=flat-square&logo=render&logoColor=020617"/>
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-#### 🔌 IoT & Hardware Integration
+#### 🔌 Integração IoT & Hardware
 **Sistemas Embarcados com ESP32**
 
-Projetos práticos focados no controle de sensores, automação e comunicação de dados via hardware.
+Projetos práticos focados no controle de sensores, automação de processos e comunicação de dados via hardware.
 
 **Destaques:**
 * Programação de microcontroladores ESP32.
@@ -75,7 +75,7 @@ Projetos práticos focados no controle de sensores, automação e comunicação 
 <br>
 
 <a href="https://github.com/sasasantos" target="_blank">
-  <img src="https://img.shields.io/badge/View_Projects-0284C7?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ver_Projetos-0284C7?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -84,23 +84,23 @@ Projetos práticos focados no controle de sensores, automação e comunicação 
 
 ---
 
-### Tech Stack
+### ⚡ Tecnologias & Ferramentas
 
 <div align="center">
 
-#### Frontend Development
+#### Desenvolvimento Frontend
 <br>
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
 <br><br>
 
-#### Backend & Databases
+#### Backend & Banco de Dados
 <br>
 <img src="https://skillicons.dev/icons?i=python,java,flask,postgres,sqlite&theme=dark"/>
 
 <br><br>
 
-#### Tools & Embedded Systems
+#### Ferramentas & Embarcados
 <br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark"/>
 
@@ -108,19 +108,16 @@ Projetos práticos focados no controle de sensores, automação e comunicação 
 
 ---
 
-### Current Focus & Interests
+### 🧠 Foco & Interesses Atuais
 
 ```json
 {
   "status": "Online",
-  "education": "Desenvolvimento de Sistemas",
-  "learning_goals": [
+  "formacao": "Desenvolvimento de Sistemas",
+  "objetivos_de_estudo": [
     "Aprofundamento em arquitetura Backend (Python/Java)",
-    "Modelagem avançada de Banco de Dados e APIs REST",
+    "Modelagem avançada de Banco de Dados e APIs RESTful",
     "Sistemas de Automação com ESP32 e IoT"
   ],
-  "soft_skills": ["Resolução de Problemas", "Aprendizado Contínuo", "Trabalho em Equipe"]
+  "habilidades_pessoais": ["Resolução de Problemas", "Aprendizado Contínuo", "Trabalho em Equipe"]
 }
-GitHub Analytics
-Let's Connect
-Sinta-se à vontade para se conectar ou conversar sobre novas ideias e oportunidades!
