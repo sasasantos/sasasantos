@@ -77,29 +77,6 @@ Sou formada em <strong>Técnico em Desenvolvimento de Sistemas</strong> pelo <st
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sasasantos&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=2C82B5&icon_color=2C82B5&text_color=E6F1FF&ring_color=2C82B5&border_radius=12" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasasantos&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=2C82B5&text_color=E6F1FF&border_radius=12" height="180"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=sasasantos&theme=dark&hide_border=true&background=0B1220&stroke=2C82B5&ring=2C82B5&fire=2C82B5&currStreakLabel=E6F1FF&sideLabels=E6F1FF&dates=6E85A0&border_radius=12" width="100%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sasasantos&theme=react-dark&bg_color=0B1220&color=2C82B5&line=2C82B5&point=E6F1FF&area=true&area_color=2C82B5&hide_border=true&border_radius=12" width="100%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=sasasantos&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%"/>
-
 ## 🔗 Contatos e links
 
 <p align="center">
