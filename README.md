@@ -6,9 +6,6 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=2C82B5&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+Sabrina+%F0%9F%91%8B;Desenvolvedora+Web+em+forma%C3%A7%C3%A3o+cont%C3%ADnua;Tecnologia+%2B+Inova%C3%A7%C3%A3o+%2B+Solu%C3%A7%C3%B5es+Digitais)
 
-<img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-2C82B5?style=for-the-badge&labelColor=0B1220"/>
-<img src="https://img.shields.io/badge/foco-desenvolvimento%20web-2C82B5?style=for-the-badge&labelColor=0B1220"/>
-
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
