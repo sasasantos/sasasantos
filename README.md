@@ -1,6 +1,12 @@
+Markdown
 <div align="center">
 
-  <!-- BANNER PRINCIPAL COM ANIMAÇÃO TYPING -->
+  <!-- BANNER PRINCIPAL -->
+  <img src="banner.jpg" alt="Banner Sabrina Santos" width="100%" />
+
+  <br /><br />
+
+  <!-- ANIMAÇÃO TYPING -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%5B%2B%5D+INITIALIZING+S.A.B.R.I.N.A.+OS+v1.0...;SYSTEM+STATUS%3A+ONLINE;A.I.+%26+SYSTEMS+DEVELOPER;TRANSFORMING+IDEAS+INTO+CODE..." alt="Typing SVG" />
   </a>
@@ -77,3 +83,8 @@ root@sabrina-os:~# ./list_goals.sh
 [✓] Criar ecossistemas integrados para IoT (ESP32/Arduino)
 [⏳] Aprofundar em microsserviços e estruturas de banco relacional
 [⏳] Expandir portfólio de projetos no GitHub
+Lumos Livraria — Sistema de gerenciamento de livraria projetado com foco em praticidade, organização e alta usabilidade.
+
+🔧 Stack: Python | Flask | SQLAlchemy | SQLite | HTML5 | CSS3
+
+🔗 Acessar Repositório do Projeto
