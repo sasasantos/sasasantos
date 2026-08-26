@@ -1,123 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:0B1F33,75:075985,100:0284C7&text=Olá,%20sou%20a%20Sabrina&fontSize=46&fontColor=E0F2FE&fontAlignY=36&desc=Desenvolvedora%20de%20Sistemas%20|%20Estudante%20de%20Tecnologia&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Header Banner"/>
+  <!-- BANNER PRINCIPAL COM ANIMAÇÃO TYPING -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&repeat=true&width=800&height=100&lines=%5B%2B%5D+INITIALIZING+S.A.B.R.I.N.A.+OS+v1.0...;SYSTEM+STATUS%3A+ONLINE;A.I.+%26+SYSTEMS+DEVELOPER;TRANSFORMING+IDEAS+INTO+CODE..." alt="Typing SVG" />
+  </a>
 
-<br>
+  <br />
 
-<a href="https://www.linkedin.com/in/sabrina-santos-de-oliveira-33b5073b0/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:Sabrinasantosoliveira82@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0080FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <!-- REDES SOCIAIS E CONTATO -->
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:sabrinasantosoliveira82@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/sasasantos">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
 
----
+<hr />
 
-### 🚀 Sobre Mim
-
-Estudante de **Desenvolvimento de Sistemas** focada em construir soluções digitais eficientes, funcionais e bem arquitetadas. Minha trajetória abrange o desenvolvimento de aplicações Web, lógica Backend, modelagem de Banco de Dados e exploração de sistemas embarcados com **ESP32 e IoT**.
-
-#### 💙 O Que Me Move
-Sou movida pelo aprendizado prático e pela resolução de problemas através do código. Acredito na criação de sistemas limpos, na constante evolução técnica e na integração inteligente entre software e hardware.
-
----
-
-### 📌 Projetos em Destaque
-
+<!-- SEÇÃO SOBRE MIM -->
 <table>
-<tr>
-<td width="50%" valign="top">
-
-#### 📚 Lumos Livraria
-**Plataforma Web de Gerenciamento**
-
-Plataforma completa desenvolvida para o controle administrativo de acervos, autenticação de usuários e gerenciamento de vendas.
-
-**Destaques:**
-* Interface web intuitiva e responsiva.
-* Autenticação e gestão de sessões de usuários.
-* Mapeamento objeto-relacional com SQLAlchemy.
-
-<br>
-
-`Python` `Flask` `SQLAlchemy` `SQLite` `HTML5` `CSS3`
-
-<br>
-
-<a href="https://github.com/sasasantos/lumos_livraria" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Repositório-0284C7?style=flat-square&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://lumos-livraria.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/Testar_Online-00D9FF?style=flat-square&logo=render&logoColor=020617"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### 🔌 Integração IoT & Hardware
-**Sistemas Embarcados com ESP32**
-
-Projetos práticos focados no controle de sensores, automação de processos e comunicação de dados via hardware.
-
-**Destaques:**
-* Programação de microcontroladores ESP32.
-* Leitura de dados de sensores em tempo real.
-* Integração de rotas e lógicas embarcadas.
-
-<br>
-
-`ESP32` `MicroPython` `C/C++` `IoT` `Arduino IDE`
-
-<br>
-
-<a href="https://github.com/sasasantos" target="_blank">
-  <img src="https://img.shields.io/badge/Ver_Projetos-0284C7?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
+  <tr>
+    <td width="60%">
+      <h3 align="left">⚡ SYSTEM OVERVIEW // SOBRE MIM</h3>
+      <p>
+        Desenvolvedora de Sistemas apaixonada por tecnologia, em constante aprendizado para transformar ideias em soluções reais. Acredito no poder da programação para criar um futuro mais simples, conectado e inteligente.
+      </p>
+      <ul>
+        <li>🔭 <b>Status:</b> Desenvolvendo arquiteturas de software e sistemas web.</li>
+        <li>🌱 <b>Foco Atual:</b> Python, Flask, Banco de Dados (SQL) e ecossistema Web.</li>
+        <li>💡 <b>Filosofia:</b> "Grandes conquistas começam com pequenos passos de hoje."</li>
+        <li>⚡ <b>Interesses:</b> Inteligência Artificial, IoT (Arduino/ESP32) e desenvolvimento backend.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasasantos&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=8F9CAE" alt="Linguagens Mais Utilizadas" />
+    </td>
+  </tr>
 </table>
 
----
+<hr />
 
-### ⚡ Tecnologias & Ferramentas
+<!-- TECH STACK -->
+<h3 align="center">🛠️ TECNOLOGIAS & FERRAMENTAS</h3>
 
-<div align="center">
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br />
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <br />
+  <!-- Banco de Dados & Hardware -->
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
+</p>
 
-#### Desenvolvimento Frontend
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
+<hr />
 
-<br><br>
+<!-- OBJETIVOS EM FORMATO DE TERMINAL -->
+<h3 align="left">💻 TERMINAL DE METAS // EM ESTUDO</h3>
 
-#### Backend & Banco de Dados
-<br>
-<img src="https://skillicons.dev/icons?i=python,java,flask,postgres,sqlite&theme=dark"/>
+```bash
+root@sabrina-os:~# ./list_goals.sh
 
-<br><br>
-
-#### Ferramentas & Embarcados
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,arduino&theme=dark"/>
-
-</div>
-
----
-
-### 🧠 Foco & Interesses Atuais
-
-```json
-{
-  "status": "Online",
-  "formacao": "Desenvolvimento de Sistemas",
-  "objetivos_de_estudo": [
-    "Aprofundamento em arquitetura Backend (Python/Java)",
-    "Modelagem avançada de Banco de Dados e APIs RESTful",
-    "Sistemas de Automação com ESP32 e IoT"
-  ],
-  "habilidades_pessoais": ["Resolução de Problemas", "Aprendizado Contínuo", "Trabalho em Equipe"]
-}
+[✓] Desenvolver aplicações backend completas em Python + Flask
+[✓] Criar ecossistemas integrados para IoT (ESP32/Arduino)
+[⏳] Aprofundar em microsserviços e estruturas de banco relacional
+[⏳] Expandir portfólio de projetos no GitHub
