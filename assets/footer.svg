@@ -1,0 +1,43 @@
+<svg width="1000" height="140" viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#123354"/>
+      <stop offset="50%" stop-color="#0B1B33"/>
+      <stop offset="100%" stop-color="#050A14"/>
+    </linearGradient>
+    <linearGradient id="accentF" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7FD4FF"/>
+      <stop offset="100%" stop-color="#2C82B5"/>
+    </linearGradient>
+    <filter id="glowF" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="140" fill="url(#bgF)"/>
+
+  <g stroke="#1E4A6E" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="30" x2="220" y2="30"/>
+    <line x1="220" y1="30" x2="260" y2="70"/>
+    <line x1="780" y1="110" x2="1000" y2="110"/>
+    <line x1="740" y1="110" x2="780" y2="70"/>
+  </g>
+  <g fill="#2C82B5" opacity="0.9">
+    <circle cx="220" cy="30" r="2.6"/>
+    <circle cx="780" cy="110" r="2.6"/>
+  </g>
+
+  <rect x="380" y="46" width="240" height="1.6" fill="url(#accentF)" opacity="0.8"/>
+
+  <text x="500" y="80" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9FC6E0" letter-spacing="1.5" filter="url(#glowF)">
+    Desenvolvido com dedicação por Sabrina Santos de Oliveira
+  </text>
+
+  <text x="500" y="104" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#5E86A3" letter-spacing="2">
+    &lt; tecnologia · inovação · desenvolvimento web /&gt;
+  </text>
+</svg>

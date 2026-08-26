@@ -1,0 +1,85 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050A14"/>
+      <stop offset="55%" stop-color="#0B1B33"/>
+      <stop offset="100%" stop-color="#123354"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2C82B5"/>
+      <stop offset="100%" stop-color="#7FD4FF"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="glowSpot" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2C82B5" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#2C82B5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1000" height="260" fill="url(#bg)"/>
+
+  <circle cx="850" cy="60" r="180" fill="url(#glowSpot)"/>
+  <circle cx="120" cy="220" r="150" fill="url(#glowSpot)"/>
+
+  <g stroke="#1E4A6E" stroke-width="1" opacity="0.55">
+    <line x1="0" y1="40" x2="260" y2="40"/>
+    <line x1="260" y1="40" x2="300" y2="80"/>
+    <line x1="300" y1="80" x2="300" y2="200"/>
+    <line x1="0" y1="220" x2="180" y2="220"/>
+    <line x1="180" y1="220" x2="220" y2="180"/>
+    <line x1="700" y1="20" x2="1000" y2="20"/>
+    <line x1="740" y1="20" x2="740" y2="70"/>
+    <line x1="740" y1="70" x2="1000" y2="70"/>
+    <line x1="640" y1="240" x2="1000" y2="240"/>
+    <line x1="640" y1="240" x2="600" y2="200"/>
+    <line x1="600" y1="200" x2="600" y2="130"/>
+  </g>
+
+  <g fill="#2C82B5" opacity="0.9">
+    <circle cx="260" cy="40" r="3.2"/>
+    <circle cx="300" cy="200" r="3.2"/>
+    <circle cx="180" cy="220" r="3.2"/>
+    <circle cx="740" cy="70" r="3.2"/>
+    <circle cx="1000" cy="20" r="3.2"/>
+    <circle cx="600" cy="130" r="3.2"/>
+  </g>
+
+  <g stroke="#2C82B5" stroke-width="1" opacity="0.25">
+    <circle cx="500" cy="130" r="95" fill="none"/>
+    <circle cx="500" cy="130" r="115" fill="none"/>
+  </g>
+
+  <g filter="softGlow">
+    <circle cx="60" cy="55" r="2" fill="#7FD4FF"/>
+    <circle cx="940" cy="200" r="2" fill="#7FD4FF"/>
+    <circle cx="880" cy="140" r="1.6" fill="#7FD4FF"/>
+    <circle cx="40" cy="190" r="1.6" fill="#7FD4FF"/>
+  </g>
+
+  <text x="500" y="112" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="42" font-weight="700" fill="#EAF4FF" filter="url(#glow)" letter-spacing="1.5">
+    SABRINA SANTOS DE OLIVEIRA
+  </text>
+
+  <rect x="330" y="140" width="340" height="2" fill="url(#accent)" opacity="0.85"/>
+
+  <text x="500" y="176" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" fill="#9FC6E0" letter-spacing="3">
+    DESENVOLVEDORA WEB JÚNIOR
+  </text>
+
+  <text x="500" y="206" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="14" fill="#5E86A3" letter-spacing="1.5">
+    Técnico em Desenvolvimento de Sistemas · SENAI
+  </text>
+</svg>
